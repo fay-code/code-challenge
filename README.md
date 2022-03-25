@@ -1,2 +1,1 @@
-# code-challenge
-Repository for testing and creating stuff for backend development
+# [Exercise Tracker](https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/exercise-tracker)
